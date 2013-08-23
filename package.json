@@ -1,0 +1,9 @@
+{
+  "name": "phrase-examiner",
+  "fullName": "Phrase Examiner",
+  "id": "jid1-lLFEV2P34mGrCA",
+  "description": "An examiner for making exact phrases.",
+  "author": "Masafumi Yokoyama <myokoym@gmail.com>",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
